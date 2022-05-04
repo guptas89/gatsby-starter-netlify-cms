@@ -8,6 +8,6 @@ title: Storybook Test
 
 <iframe
   src="https://d3calpfwu4wi3d.cloudfront.net/index.html"
-  width="800"
-  height="400"
+  width="1200"
+  height="800"
 ></iframe>
